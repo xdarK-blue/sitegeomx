@@ -1,0 +1,148 @@
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1418785321479">
+  <folder name="css">
+    <file name="site_global.css" crc="365011649"/>
+    <file name="taketori.css" crc="3949100683" ref="home"/>
+    <file name="master_c-master.css" crc="4201803445" ref="about-us:presentation:contact-us"/>
+    <file name="master_b-master.css" crc="464966752" ref="home:products"/>
+    <file name="home.css" crc="4246910721" ref="home"/>
+    <file name="about-us.css" crc="75513964" ref="about-us"/>
+    <file name="presentation.css" crc="409983073" ref="presentation"/>
+    <file name="products.css" crc="3851735189" ref="products"/>
+    <file name="iefonts_products.css" crc="4074907475" ref="products"/>
+    <file name="index.css" crc="4119232879" ref="index"/>
+    <file name="contact-us.css" crc="4058484524" ref="contact-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="home:products:about-us:contact-us:presentation:index"/>
+    <file name="museutils.js" crc="3777594392" ref="home:products:about-us:contact-us:presentation:index"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="home:products:about-us:contact-us:presentation:index"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="home:products:about-us:contact-us:presentation"/>
+    <file name="webpro.js" crc="474087315" ref="home:products:contact-us:presentation"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="home:products:presentation"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="home:products:presentation"/>
+    <file name="touchswipe.js" crc="100683906" ref="home:products:presentation"/>
+    <file name="html5shiv.js" crc="4241844378" ref="home:products:about-us:contact-us:presentation:index"/>
+    <file name="taketori.js" crc="1806767" ref="home"/>
+    <file name="pie.js" crc="3827607177" ref="products:contact-us:presentation"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="products:about-us:contact-us"/>
+    <file name="jquery.scrolleffects.js" crc="117544926" ref="about-us"/>
+    <file name="form_check.php" crc="306825315" ref="contact-us"/>
+    <file name="form_throttle.php" crc="4293816517" ref="contact-us"/>
+    <file name="form_process.php" crc="109188895" ref="contact-us"/>
+    <file name="form-u679.php" crc="3860165345" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="qwe.gif" crc="266272539" ref="home:products:presentation:index"/>
+    <file name="qqq.png" crc="61896626" ref="home"/>
+    <file name="satellite.gif" crc="3773486016" ref="home"/>
+    <file name="2010 construction fraud-crop-u284.jpg" crc="4077778697" ref="home"/>
+    <file name="blank.gif" crc="4208392903" ref="home:presentation"/>
+    <file name="design-arte-crop-u1571.jpg" crc="21664842" ref="home"/>
+    <file name="pucuda-leading-edge-safety-at-construction-site-crop-u299.jpg" crc="4156387840" ref="home"/>
+    <file name="loading.gif" crc="3815509949" ref="home:presentation"/>
+    <file name="zzzz.png" crc="4227266119" ref="home"/>
+    <file name="modernism_poster_final.jpg" crc="66641895" ref="home"/>
+    <file name="design-elements-fire-water-grass-wind-set-graphic-tribal-art-style-33494547.jpg" crc="4217832620" ref="home"/>
+    <file name="dance-sexy-art-graphic-design-via-expressway-young-classical-dancing-decorative-brush-kelley-abscess-block-style-sway-38969339.jpg" crc="4022753391" ref="home"/>
+    <file name="wrks_nomad 2.jpg" crc="3785563986" ref="home"/>
+    <file name="screen shot 2014-12-16 at 55410 pm.jpg" crc="330224539" ref="home:products:about-us:contact-us:presentation"/>
+    <file name="screen shot 2014-12-16 at 55447 pm.jpg" crc="235386544" ref="home:products:about-us:contact-us:presentation"/>
+    <file name="u786-grad.png" crc="153646891" ref="products"/>
+    <file name="u787-grad.png" crc="379920848" ref="products"/>
+    <file name="gplus2.png" crc="481672434" ref="products"/>
+    <file name="like.png" crc="3796875497" ref="products"/>
+    <file name="twitter.png" crc="397373269" ref="products"/>
+    <file name="youtube.png" crc="45311298" ref="products"/>
+    <file name="addthis.png" crc="4245712539" ref="products"/>
+    <file name="facebook.png" crc="310291922" ref="products"/>
+    <file name="swiss-graphic-design-105.jpg" crc="298556817" ref="products"/>
+    <file name="gatsby-theme.jpg" crc="213211371" ref="products"/>
+    <file name="1274942365-02.jpg" crc="42547867" ref="products"/>
+    <file name="cripplecreektailings.jpg" crc="3943874537" ref="products"/>
+    <file name="a-beautiful-woman-poses-lustily-in-this-red-and-black-tattoo-by-ivana-belakova.jpg" crc="286610413" ref="products"/>
+    <file name="modern-design-apple-dot-minimal-style-infographic-vector-1829284.jpg" crc="3764199617" ref="products"/>
+    <file name="swiss-graphic-design-143.jpg" crc="246443301" ref="products"/>
+    <file name="th1.jpg" crc="145276429" ref="products"/>
+    <file name="shutterstock_125240615-u833-fr.jpg" crc="4011994206" ref="products:about-us"/>
+    <file name="shutterstock_63537922-u834-fr.jpg" crc="80812741" ref="products:about-us"/>
+    <file name="shutterstock_141675481-u835-fr.jpg" crc="462993068" ref="products:about-us"/>
+    <file name="134931870_86459a1441.jpg" crc="4009755155" ref="products"/>
+    <file name="graphic_design.jpg" crc="296763222" ref="about-us"/>
+    <file name="office_room_style_wall_modern_design_39289_1920x1200-u885-fr.jpg" crc="380774964" ref="about-us"/>
+    <file name="u977-7.png" crc="487218919" ref="about-us"/>
+    <file name="pucuda-leading-edge-safety-at-construction-site-crop-u299-crop-u964.jpg" crc="3798979750" ref="about-us"/>
+    <file name="valpnow_com_1_entv_styleframe.jpg" crc="436490366" ref="about-us"/>
+    <file name="pucuda-leading-edge-safety-at-construction-site-crop-u299-crop-u953.jpg" crc="329634916" ref="about-us"/>
+    <file name="modern-design-minimal-style-infographic-template-vector-1829413.jpg" crc="4112030201" ref="about-us"/>
+    <file name="modern-design-minimal-style-infographic-template-vector-2106025.jpg" crc="485912695" ref="about-us"/>
+    <file name="u1522-4.png" crc="3943780783" ref="contact-us"/>
+    <file name="u826-grad.png" crc="3954269" ref="contact-us"/>
+    <file name="u827-grad.png" crc="4006935571" ref="contact-us"/>
+    <file name="u827-r-grad.png" crc="4094540563" ref="contact-us"/>
+    <file name="u1523-4.png" crc="330204881" ref="contact-us"/>
+    <file name="u691-17.png" crc="4204284256" ref="contact-us"/>
+    <file name="u691-17-r.png" crc="3931210858" ref="contact-us"/>
+    <file name="u691-17-m.png" crc="4257950368" ref="contact-us"/>
+    <file name="u691-17-fs.png" crc="347922918" ref="contact-us"/>
+    <file name="shutterstock_125240615.jpg" crc="4220376628" ref="contact-us"/>
+    <file name="shutterstock_141675481.jpg" crc="474656761" ref="contact-us"/>
+    <file name="ifacebutton.gif" crc="3814536551" ref="presentation"/>
+    <file name="387012_224808477648960_1948560528_n-u1539-fr.jpg" crc="514792987" ref="presentation"/>
+    <file name="400833_227948830668258_1287056261_n-u1540-fr.jpg" crc="200218554" ref="presentation"/>
+    <file name="1378885_396594577137015_682457156_n-u1541-fr.jpg" crc="12959070" ref="presentation"/>
+    <file name="how-design-thinking-can-enrich-business-marketing-innovation-u1713-fr.jpg" crc="437774239" ref="presentation"/>
+    <file name="graphic_design smaller-u1716-fr.jpg" crc="210608234" ref="presentation"/>
+    <file name="134931870_86459a1441-u1738-fr.jpg" crc="447937775" ref="presentation"/>
+    <file name="design_graphic11-u1712-fr.jpg" crc="263827078" ref="presentation"/>
+    <file name="shutterstock_79447717-u1739-fr.jpg" crc="4220898620" ref="presentation"/>
+    <file name="heart_vector_design-normal-u1714-fr.jpg" crc="3929857658" ref="presentation"/>
+    <file name="32174_286713204791820_557047132_n.jpg" crc="3806280663" ref="presentation"/>
+    <file name="223065_226321507497657_447091713_n.jpg" crc="173062058" ref="presentation"/>
+    <file name="539510_224458277683980_468848874_n.jpg" crc="319396388" ref="presentation"/>
+    <file name="556424_224799347649873_1707062970_n.jpg" crc="150485803" ref="presentation"/>
+    <file name="1379582_399378126858660_1668448635_n.jpg" crc="4070445032" ref="presentation"/>
+    <file name="1.jpg" crc="3808527593" ref="presentation"/>
+    <file name="1594_1500x1500.jpg" crc="4183988306" ref="presentation"/>
+    <file name="back-women-graffiti-wildstyle-525-x-737.jpg" crc="134171176" ref="presentation"/>
+    <file name="dood1.jpg" crc="337049492" ref="presentation"/>
+    <file name="illtypo1.jpg" crc="46354833" ref="presentation"/>
+    <file name="modern_flowers.jpg" crc="503402027" ref="presentation"/>
+    <file name="nkeo2.jpg" crc="147322075" ref="presentation"/>
+    <file name="pop_art_graphics.jpg" crc="507426970" ref="presentation"/>
+    <file name="pop-art-a-wpap-style-wedhaas-pop-art-portrait-by-dumas_1180192_profile.jpg" crc="884185" ref="presentation"/>
+    <file name="retroc-1024x921.jpg" crc="504362482" ref="presentation"/>
+    <file name="vectorstock_776671.jpg" crc="3924735093" ref="presentation"/>
+    <file name="2.jpg" crc="196919719" ref="presentation"/>
+    <file name="city-style-cv1.jpg" crc="441112779" ref="presentation"/>
+    <file name="whimsical-pop-art-style-ad-agency-office-in-amsterdam-1.jpg" crc="4155424400" ref="presentation"/>
+    <file name="999820_362299133899893_886688122_n.jpg" crc="4214570960" ref="presentation"/>
+    <file name="32174_286713204791820_557047132_n-crop-u994.jpg" crc="440354017" ref="presentation"/>
+    <file name="223065_226321507497657_447091713_n184x115.jpg" crc="4159689981" ref="presentation"/>
+    <file name="539510_224458277683980_468848874_n-crop-u1074.jpg" crc="3983185980" ref="presentation"/>
+    <file name="556424_224799347649873_1707062970_n187x105.jpg" crc="521080181" ref="presentation"/>
+    <file name="1379582_399378126858660_1668448635_n184x115.jpg" crc="3897810901" ref="presentation"/>
+    <file name="1-crop-u1282.jpg" crc="4027172646" ref="presentation"/>
+    <file name="1594_1500x1500-crop-u1291.jpg" crc="294585937" ref="presentation"/>
+    <file name="back-women-graffiti-wildstyle-525-x-737-crop-u1300.jpg" crc="498888896" ref="presentation"/>
+    <file name="dood1-crop-u1309.jpg" crc="303485450" ref="presentation"/>
+    <file name="illtypo1-crop-u1318.jpg" crc="4198056911" ref="presentation"/>
+    <file name="modern_flowers-crop-u1327.jpg" crc="4081159348" ref="presentation"/>
+    <file name="nkeo2-crop-u1336.jpg" crc="505119802" ref="presentation"/>
+    <file name="pop_art_graphics-crop-u1345.jpg" crc="3948389086" ref="presentation"/>
+    <file name="pop-art-a-wpap-style-wedhaas-pop-art-portrait-by-dumas_1180192_profile-crop-u1354.jpg" crc="33934301" ref="presentation"/>
+    <file name="retroc-1024x921-crop-u1363.jpg" crc="3977458870" ref="presentation"/>
+    <file name="vectorstock_776671-crop-u1372.jpg" crc="4026030525" ref="presentation"/>
+    <file name="2184x112.jpg" crc="411179664" ref="presentation"/>
+    <file name="city-style-cv1-crop-u1400.jpg" crc="335052021" ref="presentation"/>
+    <file name="whimsical-pop-art-style-ad-agency-office-in-amsterdam-1184x123.jpg" crc="4226734135" ref="presentation"/>
+    <file name="999820_362299133899893_886688122_n-crop-u1428.jpg" crc="178532212" ref="presentation"/>
+    <file name="graphics-and-flash-design.jpg" crc="327043154" ref="presentation"/>
+    <file name="ifacebutton2.gif" crc="3814536551" ref="index"/>
+  </folder>
+  <file name="home.html" crc="4077190194" mt="1418784539545" redirect="true"/>
+  <file name="products.html" crc="3824700641" mt="1418784539343" redirect="true"/>
+  <file name="about-us.html" crc="203719703" mt="1418784539333" redirect="true"/>
+  <file name="contact-us.html" crc="3808796185" mt="1418784539331" redirect="true"/>
+  <file name="presentation.html" crc="228209817" mt="1418785286766" redirect="true"/>
+  <file name="index.html" crc="4186656949" mt="1418782681652" redirect="true"/>
+</manifest>
