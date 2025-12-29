@@ -1,0 +1,173 @@
+.version.index /* version checker */
+{
+	color: #0000F5;
+	background-color: #86816F;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 673px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u527
+{
+	z-index: 2;
+	width: 592px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 299px;
+	left: 226px;
+}
+
+#u526
+{
+	z-index: 4;
+	width: 959px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #8C9696;
+	padding-bottom: 99px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 63px;
+}
+
+#u530
+{
+	z-index: 5;
+	width: 773px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -2px;
+	left: 95px;
+}
+
+#u533-5
+{
+	z-index: 7;
+	width: 933px;
+	min-height: 41px;
+	background-color: transparent;
+	font-size: 36px;
+	line-height: 43px;
+	color: #000000;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 95px;
+	left: 27px;
+}
+
+#u533-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u533
+{
+	line-height: 43px;
+}
+
+#u533-2
+{
+	font-size: 24px;
+	color: #FFFFFF;
+	font-weight: normal;
+	font-style: italic;
+	line-height: 29px;
+}
+
+#u539
+{
+	z-index: 12;
+	width: 99px;
+	height: 702px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	left: -100px;
+}
+
+#u540
+{
+	z-index: 13;
+	width: 959px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 595px;
+}
+
+#u534
+{
+	z-index: 16;
+	width: 250px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 683px;
+}
+
+#u542
+{
+	z-index: 14;
+	width: 99px;
+	height: 702px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	left: 960px;
+}
+
+#u543
+{
+	z-index: 15;
+	width: 979px;
+	height: 61px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
